@@ -47,3 +47,4 @@ model3.add(tf.keras.layers.Dense(1, activation='sigmoid'))
 # 저도 어제 검색하다가 발견한 사이트인데, 노드의 내용과 많이 비슷하면서 또 부연설명을 하고 있으므로 도움이 되시길 바랍니다. 
 https://wikidocs.net/book/2155
 ```
+https://wikidocs.net/44249
