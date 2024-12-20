@@ -1,5 +1,6 @@
 # AIFFEL Online Campus 5th Cohort
 
+This README.md file is shared from shinnew_99(https://github.com/shinnew99/Aiffel_Quest/blob/main/README.md)
 23.06.19 ~ 23.12.06
 <br>공휴일: 07.17(제헌절), 09.28~10.03(추석연휴) 
 
